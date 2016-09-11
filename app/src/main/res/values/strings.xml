@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Orests Notes</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="sample_data">Sample data</string>
+    <string name="are_you_sure">Are you sure you want to delete all data?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="title_activity_note">Editor</string>
+    <string name="delete_note">Delete</string>
+    <string name="new_subject">New subject</string>
+    <string name="subject_name_hint">Subject name</string>
+    <string name="create_new_subject_message">Create new subject:</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_subject">Edit</string>
+    <string name="update_subject">Update subject</string>
+    <string name="search_hint">Enter key word</string>
+    <string name="no_location">Location not available</string>
+    <string name="permission_location_rationale">Allow access to your current location</string>
+    <string name="ok">Ok</string>
+    <string name="permision_available_camera">LOCATION permission has now been granted. Showing preview.</string>
+    <string name="permissions_not_granted">LOCATION permission was NOT granted</string>
+</resources>
